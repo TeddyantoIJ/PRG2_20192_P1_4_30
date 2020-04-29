@@ -1,0 +1,14 @@
+C:\Users\Polman\source\repos\PRG2_20192_P1_4_30\PRG2_20192_P1_4_30\bin\Debug\PRG2_20192_P1_4_30.exe.config
+C:\Users\Polman\source\repos\PRG2_20192_P1_4_30\PRG2_20192_P1_4_30\bin\Debug\PRG2_20192_P1_4_30.exe
+C:\Users\Polman\source\repos\PRG2_20192_P1_4_30\PRG2_20192_P1_4_30\bin\Debug\PRG2_20192_P1_4_30.pdb
+C:\Users\Polman\source\repos\PRG2_20192_P1_4_30\PRG2_20192_P1_4_30\obj\Debug\PRG2_20192_P1_4_30.csproj.CoreCompileInputs.cache
+C:\Users\Polman\source\repos\PRG2_20192_P1_4_30\PRG2_20192_P1_4_30\obj\Debug\PRG2_20192_P1_4_30.exe
+C:\Users\Polman\source\repos\PRG2_20192_P1_4_30\PRG2_20192_P1_4_30\obj\Debug\PRG2_20192_P1_4_30.pdb
+C:\Users\Polman\source\repos\PRG2_20192_P1_4_30\PRG2_20192_P1_4_30\obj\Debug\PRG2_20192_P1_4_30.csprojAssemblyReference.cache
+C:\Users\Polman\Documents\Teddy-san\Semester 2\Tugas\PRG2\Visual Studio\PRG2_20192_P1_30\PRG2_20192_P1_4_30\PRG2_20192_P1_4_30\bin\Debug\PRG2_20192_P1_4_30.exe.config
+C:\Users\Polman\Documents\Teddy-san\Semester 2\Tugas\PRG2\Visual Studio\PRG2_20192_P1_30\PRG2_20192_P1_4_30\PRG2_20192_P1_4_30\bin\Debug\PRG2_20192_P1_4_30.exe
+C:\Users\Polman\Documents\Teddy-san\Semester 2\Tugas\PRG2\Visual Studio\PRG2_20192_P1_30\PRG2_20192_P1_4_30\PRG2_20192_P1_4_30\bin\Debug\PRG2_20192_P1_4_30.pdb
+C:\Users\Polman\Documents\Teddy-san\Semester 2\Tugas\PRG2\Visual Studio\PRG2_20192_P1_30\PRG2_20192_P1_4_30\PRG2_20192_P1_4_30\obj\Debug\PRG2_20192_P1_4_30.csprojAssemblyReference.cache
+C:\Users\Polman\Documents\Teddy-san\Semester 2\Tugas\PRG2\Visual Studio\PRG2_20192_P1_30\PRG2_20192_P1_4_30\PRG2_20192_P1_4_30\obj\Debug\PRG2_20192_P1_4_30.csproj.CoreCompileInputs.cache
+C:\Users\Polman\Documents\Teddy-san\Semester 2\Tugas\PRG2\Visual Studio\PRG2_20192_P1_30\PRG2_20192_P1_4_30\PRG2_20192_P1_4_30\obj\Debug\PRG2_20192_P1_4_30.exe
+C:\Users\Polman\Documents\Teddy-san\Semester 2\Tugas\PRG2\Visual Studio\PRG2_20192_P1_30\PRG2_20192_P1_4_30\PRG2_20192_P1_4_30\obj\Debug\PRG2_20192_P1_4_30.pdb
